@@ -1,0 +1,1 @@
+export { default } from "file:///Users/deanwilson/projects/tundra-dashboard/node_modules/@nuxt/vite-builder/dist/runtime/vite-node.mjs"
